@@ -1,1 +1,1 @@
-# Banomat
+# Bankomat
